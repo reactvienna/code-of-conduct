@@ -16,13 +16,18 @@ const convert = (phones) => {
       // Cut everything after "The less quick version"
       let short = string.substring(0, string.indexOf('The Less Quick Version')); 
       short = `${short}${extra}`
-      // Insert phone numbers
-      const text = "There'll always be at least one of them at any ReactVienna-sponsored space.";
-      const index = short.indexOf(text);
-      const before = short.substring(0, index);
-      const after = short.substring(index);
-      const numbers = `You can also call them:\n${phones.map(data => `- ${data.name}: ${data.phone}`).join('\n')}\n\n`;
-      this.push(before + numbers + after);
+      if (phones && phones.length > 0 && phones.every(data => data.name && data.phone)) {
+        // Insert phone numbers
+        const text = "There'll always be at least one of them at any ReactVienna-sponsored space.";
+        const index = short.indexOf(text);
+        const before = short.substring(0, index);
+        const after = short.substring(index);
+        const numbers = `You can also call them:\n${phones.map(data => `- ${data.name}: ${data.phone}`).join('\n')}\n\n`;
+        this.push(before + numbers + after);
+      } else {
+        console.warn('No phone numbers provided, please provide at least one phone number if possible.')
+        this.push(short);
+      }
       callback();
     }),
   }).from('./readme.md').to('./readme.pdf', () => {
