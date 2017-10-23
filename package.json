@@ -1,0 +1,25 @@
+{
+  "name": "code-of-conduct",
+  "version": "1.0.0",
+  "description": "All attendees, speakers, sponsors and volunteers at our meetup are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.",
+  "main": "convert-to-pdf.js",
+  "dependencies": {
+    "markdown-pdf": "^8.0.0",
+    "prompt": "^1.0.0",
+    "through2": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "convert": "node ./convert-to-pdf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reactvienna/code-of-conduct.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reactvienna/code-of-conduct/issues"
+  },
+  "homepage": "https://github.com/reactvienna/code-of-conduct#readme"
+}
