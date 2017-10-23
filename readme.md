@@ -19,7 +19,7 @@ Contact one of the meetup organisers immediately:
 
 There'll always be at least one of them at any ReactVienna-sponsored space.
 
-There is also a point of contact outside of the organiser group in case you don't feel comfortable reaching out to them: Laura Gaetano, who works at TravisCI and organises the Rails Girls Summer of Code. (laura@travis-ci.org)
+There is also a **point of contact outside of the organiser group** in case you don't feel comfortable reaching out to them: Laura Gaetano, who works at TravisCI and organises the Rails Girls Summer of Code. (laura@travis-ci.org)
 
 ## The Quick Version
 
