@@ -2,7 +2,7 @@
 
 All attendees, speakers, sponsors and volunteers at our meetup are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.
 
-This code of conduct applies to all ReactVienna-sponsored spaces, including our meetups, parties, forums and other spaces that ReactVienna hosts, both online and offline.
+This code of conduct applies to all ReactVienna-sponsored spaces, including our meetups, communication channels (eg. Slack), parties and other spaces that ReactVienna hosts, both online and offline.
 
 Some of these spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
