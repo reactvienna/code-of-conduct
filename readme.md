@@ -22,13 +22,23 @@ There'll always be at least one of them at any ReactVienna-sponsored space.
 
 There is also a **point of contact outside of the organiser group** in case you don't feel comfortable reaching out to them: Laura Gaetano, who works at TravisCI and organises the Rails Girls Summer of Code. (laura@travis-ci.org)
 
+## Our Standards
+
+Examples of behavior that contributes to a positive environment for our community include:
+
+- Demonstrating empathy and kindness toward other people
+- Being respectful of differing opinions, viewpoints, and experiences
+- Giving and gracefully accepting constructive feedback
+- Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
+- Focusing on what is best not just for us as individuals, but for the overall community
+
 ## The Quick Version
 
 Our meetup is dedicated to providing a harassment-free meetup experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of meetup participants in any form. Sexual language and imagery is not appropriate for any meetup venue, including talks, workshops, parties, Twitter and other online media. Meetup participants violating these rules may be sanctioned or expelled from the meetup at the discretion of the organisers.
 
 ## The Less Quick Version
 
-Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, technology choices, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, technology choices, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. This includes any other conduct which could reasonably be considered inappropriate in a professional setting.
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
@@ -42,7 +52,7 @@ The organisers will be happy to help participants contact venue security or loca
 
 ## Acknowledgements
 
-This Code of Conduct is adapted from the [Conf Code of Conduct](http://confcodeofconduct.com/), which itself is based on the [2012 JSConf Code of Conduct](http://2012.jsconf.us/#/about) and [The Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
+This Code of Conduct is adapted from the [Conf Code of Conduct](http://confcodeofconduct.com/), which itself is based on the [2012 JSConf Code of Conduct](http://2012.jsconf.us/#/about) and [The Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy). Phrasing from the [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/) is also included.
 
 ## License
 
