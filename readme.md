@@ -11,6 +11,7 @@ Some of these spaces may have additional rules in place, which will be made clea
 Contact one of the meetup organisers immediately:
 
 - **Max Stoiber (contact@mxstbr.com)**
+- Juho Vepsäläinen (bebraw@gmail.com)
 - Nik Graf (nik@nikgraf.com)
 - Andrey Okonetchnikov (andrey@okonet.ru)
 - Glenn Reyes (glenn@glennreyes.com)
