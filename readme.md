@@ -45,7 +45,7 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 
 Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualised images, activities, or other material.
 
-If a participant engages in harassing behavior, the meetup organisers may take any action they deem appropriate, including warning the offender or expulsion from the meetup.
+If a participant engages in harassing or other inappropriate behavior, the meetup organisers may take any action they deem appropriate, including warning the offender or expulsion from the meetup.
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the meetup organisers immediately via the contact details provided above.
 
