@@ -17,7 +17,7 @@ Contact one of the meetup organisers immediately:
 - Glenn Reyes (glenn@glennreyes.com)
 - Karl Horky (karl.horky@gmail.com)
 - Patrick Ecker (hi@ryyppy.com)
-- Ramón Huidobro (hola@ramonh.dev)
+- Carmen Huidobro (hola@carmenh.dev)
 
 There'll always be at least one of them at any ReactVienna-sponsored space.
 
